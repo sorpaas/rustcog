@@ -1,6 +1,8 @@
 [package]
 name = "atomspace"
 version = "0.1.0"
+description = "OpenCog's atomspace re-implementation in Rust."
+license = "Apache-2"
 authors = ["Wei Tang <hi@that.world>"]
 
 [dependencies]
